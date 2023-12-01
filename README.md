@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# Sentiment Analysis
 
 Percobaan melakukan analisis data terhadap review pengguna android untuk meninjau aspek kepuasan salah satu aplikasi pemutar musik streaming yaitu Spotify.
 
